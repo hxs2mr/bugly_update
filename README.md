@@ -1,4 +1,3 @@
-# bugly_update
-测试bugly热跟新
-
+＃bugly_update
+bugly热更新技术方案
 
