@@ -1,3 +1,3 @@
 ＃bugly_update
-bugly热更新技术方案
+bugly热更新技术方案Demo
 
