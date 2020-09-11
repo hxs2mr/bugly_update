@@ -14,7 +14,7 @@ import com.tencent.tinker.loader.shareutil.ShareConstants;
 public class MyApplocation extends TinkerApplication {
 
     public MyApplocation() {
-        super(ShareConstants.TINKER_ENABLE_ALL, "com.dcbhxs.bugly_update.SampleApplicationLike",
+        super(ShareConstants.TINKER_ENABLE_ALL, "com.dcbhxs.bugly_update.LoaderApplicationLike",
                 "com.tencent.tinker.loader.TinkerLoader", false);
     }
 }
